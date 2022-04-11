@@ -1,0 +1,19 @@
+{
+  "name": "ultimate-react-redux-tailwindcss-boilerplate-with-authentication-boilerplate-backend",
+  "version": "1.0.0",
+  "description": "ultimate-react-redux-tailwindcss-boilerplate-with-authentication-boilerplate-express-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Jefferson Muigai",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
